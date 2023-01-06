@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Oswald', sans-serif;
+}
+.header-content{
+    background-image: url('./img/banner3.png');
+    height: 100vh;
+    display: flex;
+   
+    align-items: center;
+    
+}
+.header-text{
+    text-align: end;
+    width: 500px;
+    margin-left: 900px;
+    color: white;
+    
+}
+.header-text h1 {
+    margin-top: 150px;
+    margin-bottom: 25px;
+    font-size: 50px;
+    
+}
+.header-text p{
+    margin-bottom: 25px;
+    font-size: 25px;
+}
+.header-text button{
+    padding: 10px 25px;
+    border: none;
+    border-radius: 10px;
+    font-size: 20px;
+    background: #022542;
+    color: white;
+}
