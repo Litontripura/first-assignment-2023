@@ -94,3 +94,49 @@
 .icon{
     font-size: 60px;
 }
+
+
+/* our team member section start */
+
+.our-team{
+    background: #FCC424;
+    text-align: center;
+    
+}
+.our-team h1{
+    padding: 80px;
+    font-size: 50px;
+}
+.member-top{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.member-top div{
+    height: 300px;
+    width: 300px;
+    background: black;
+    margin-left: 30px;
+    color: white;
+}
+.member-bottom{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.member-bottom div{
+    height: 300px;
+    width: 300px;
+    background: black;
+    margin-left: 20px;
+    margin-top: 30px;
+    color: white;
+}
+.img{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    margin-top: 20px;
+    border: none;
+}
